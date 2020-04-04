@@ -6,3 +6,4 @@ Orange added from local intelliJ
 Kiwi
 Watermelon
 apricot
+plum
