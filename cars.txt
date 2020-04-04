@@ -7,4 +7,5 @@ Audi R8
 Tesla
 Volga
 Kia
+Lexus GX
 
