@@ -3,3 +3,5 @@ Apple
 Grapes
 Cherry
 Orange added from local intelliJ
+Kiwi
+Watermelon
