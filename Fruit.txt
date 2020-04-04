@@ -2,3 +2,5 @@ Banana
 Apple
 Grapes
 Cherry
+Kiwi
+Watermelon
